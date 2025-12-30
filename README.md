@@ -177,7 +177,7 @@ rules = association_rules(frequent_itemsets, metric="confidence",
 
 ### Demo
 
-[Video: Market_Basket_Analysis_Demo.mp4]
+[\[Video: Market_Basket_Analysis_Demo.mp4\]](https://drive.google.com/drive/folders/1QVxxbvmiG8TkWW5ETMhCkhhlyNzfanYV?usp=drive_link)
 
 ## Discussion
 
